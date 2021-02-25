@@ -1,6 +1,6 @@
 <p align="center"><img src="/images/logo.png" alt=""></p>
 <h1 align="center">What the f*ck Python! 😱</h1>
-<p align="center">Explorando y entendiendo Python a través de sorprendentes tips.</p>
+<p align="center">Explorando y entendiendo Python a través de ejemplos sorprendentes.</p>
 
 Traducciones: [Inglés English](https://github.com/satwikkansal/wtfpython) | [Chino 中文](https://github.com/leisurelicht/wtfpython-cn) | [Vietnamita Tiếng Việt](https://github.com/vuduclyunitn/wtfptyhon-vi)
 
