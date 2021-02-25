@@ -1,27 +1,28 @@
-All kinds of patches are welcome. Feel free to even suggest some catchy and funny titles for the existing Examples. The goal is to make this collection as interesting to read as possible. Here are a few ways through which you can contribute,
+Se aceptan todo tipo de contribuciones. No dudes en recomendar títulos graciosos para ejemplos que ya existen. El objetivo es hacer que esta colección sea lo más interesante posible. Aquí hay algunas maneras en las que puedes contribuir,
 
-- If you are interested in translating the project to another language (some people have done that in the past), please feel free to open up an issue, and let me know if you need any kind of help.
-- If the changes you suggest are significant, filing an issue before submitting the actual patch will be appreciated. If you'd like to work on the issue (highly encouraged), you can mention that you're interested in working on it while creating the issue and get assigned to it.
-- If you're adding a new example, it is highly recommended to create an issue to discuss it before submitting a patch. You can use the following template for adding a new example:
+- Si estás interesado en traducir el proyecto a otro idioma (algunas personas ya han hecho esto), por favor, abre in Issue y déjame saber si necesitas ayuda.
+- Si los cambios que recomiendas son significantes sería bueno que abrieses in Issue primero antes de abrir la Pull request. Si quieres trabajar en el Issue (recomendado) puedes mencionar que estás interesado en trabajar en esa recomendación para poder ser asignado al Issue.
+- Si quieres añadir un nuevo ejemplo es recomendable que crees un Issue para discutir antes de hacer el trabajo. Puedes usar la siguiente plantilla para añadir un nuevo ejemplo:
 
 <pre>
-### ▶ Some fancy Title *
-The asterisk at the end of the title indicates the example was not present in the first release and has been recently added.
+### ▶ Un título genial *
+El asterisco al final del título indica que el ejemplo no existía en la primera versión y ha sido añadido recientemente.
 
 ```py
-# Setting up the code.
-# Preparation for the magic...
+# Preparando el código.
+# Preparando la magia...
 ```
 
-**Output (Python version):**
+**Output (versión de Python):**
 ```py
 >>> triggering_statement
-Probably unexpected output
+Probablemente un output inesperado...
 ```
-(Optional): One line describing the unexpected output.
+(Opcional): una línea describiendo el output inesperado.
 
-#### 💡 Explanation:
-* Brief explanation of what's happening and why is it happening.
+#### 💡 Explicación:
+
+* Corta explicación de qué está ocurriendo y por qué está ocurriendo.
   ```py
   Setting up examples for clarification (if necessary)
   ```
@@ -30,13 +31,11 @@ Probably unexpected output
   >>> trigger # some example that makes it easy to unveil the magic
   # some justified output
   ```
-```
 </pre>
 
+Algunas cosas que considerar si añades un ejemplo,
 
-Few things that you can consider while writing an example, 
-
-- If you are choosing to submit a new example without creating an issue and discussing, please check the project to make sure there aren't similar examples already.
-- Try to be consistent with the namings and the values you use with the variables. For instance, most variable names in the project are along the lines of `some_string`, `some_list`, `some_dict`, etc. You'd see a lot of `x`s for single letter variable names, and `"wtf"` as values for strings. There's no strictly enforced scheme in the project as such, but you can take a glance at other examples to get a gist.
-- Try to be as creative as possible to add that element of "surprise" in the setting up part of an example. Sometimes this may mean writing a snippet a sane programmer would never write.
-- Also, feel free to add your name to the [contributors list](/CONTRIBUTORS.md).
+- Si eliges crear la Pull request sin abrir un Issue para discutir por favor revisa el proyecto para asegurarte de que no existen ejemplos similares.
+- Trata de ser consistente con los nombres y los valores que usas en los ejemplos. Por ejemplo, la mayoría de los nombres de las variables en el proyecto siguen una especie de línea: `some_string`, `some_list`, `some_dict`, etc. Verás un montón de `x`s para nombres de variables únicos y `"wtf"` como valores de strings. No hay una forma definida, pero puedes ver los demás ejemplos para hacerte una idea.
+- Intenta ser tan creativo como puedas. Añade ese elemento "sorpresa" en alguna parte del ejemplo. A veces, esto significa escribir un ejemplo que un programador sensato no escribiría.
+- No dudes en añadir tu nombre a la [lista de contribuidores](/CONTRIBUTORS.md).

@@ -1,6 +1,6 @@
-Following are the wonderful people (in no specific order) who have contributed their examples to wtfpython.
+Las siguientes son las personas (sin ningún orden específico) que han contribuido a wtfpython.
 
-| Contributor | Github | Issues |
+| Contribuidor | GitHub | Issues |
 |-------------|--------|--------|
 | Lucas-C | [Lucas-C](https://github.com/Lucas-C) | [#36](https://github.com/satwikkansal/wtfpython/issues/36) |
 | MittalAshok | [MittalAshok](https://github.com/MittalAshok) | [#23](https://github.com/satwikkansal/wtfpython/issues/23) |
@@ -27,14 +27,14 @@ Following are the wonderful people (in no specific order) who have contributed t
 
 ---
 
-**Translations**
+**Traducciones**
 
-| Translator | Github | Language |
+| Traductor | GitHub | Idioma |
 |-------------|--------|--------|
-| leisurelicht | [leisurelicht](https://github.com/leisurelicht) | [Chinese](https://github.com/leisurelicht/wtfpython-cn) |
-| vuduclyunitn | [vuduclyunitn](https://github.com/vuduclyunitn) | [Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi) |
+| leisurelicht | [leisurelicht](https://github.com/leisurelicht) | [Chino](https://github.com/leisurelicht/wtfpython-cn) |
+| vuduclyunitn | [vuduclyunitn](https://github.com/vuduclyunitn) | [Vietnamita](https://github.com/vuduclyunitn/wtfptyhon-vi) |
+| JoseDeFreitas | [JoseDeFreitas](https://github.com/JoseDeFreitas) | [Español](https://github.com/JoseDeFreitas/wtfpython-es)
 
+¡Muchas gracias por su tiempo y por hacer que wtfpython sea mejor! :smile:
 
-Thank you all for your time and making wtfpython more awesome! :smile:
-
-PS: This list is updated after every major release, if I forgot to add your contribution here, please feel free to raise a Pull request.
+PD: Esta lista se actualiza en cada versión mayor. Si me olvido de añadir tu contribuición aquí, no dudes en enviar una Pull request.
